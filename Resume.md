@@ -1,14 +1,16 @@
  <center>
-         <div style="float: left; background: #3e3e3e; ">
+         <div>
+         <div style="float: left;">
              <img src = "assets/11cc.jpg", width = "100px">
          </div>   
-         <div style="float: right; background: #1a1a1a;">
+         <div style="float: right;>
              <h1>李晨晓</h1>
              <div>
                 <span>
                     求职意向：Java开发工程师
                 </span>
              </div>
+         </div>
          </div>
  </center>
 
