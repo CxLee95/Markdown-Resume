@@ -1,9 +1,9 @@
  <center>
-         <div>
+       <div>
          <div style="float: left;">
              <img src = "assets/11cc.jpg", width = "100px">
          </div>   
-         <div style="float: right;>
+         <div style="float: right;">
              <h1>李晨晓</h1>
              <div>
                 <span>
@@ -11,7 +11,7 @@
                 </span>
              </div>
          </div>
-         </div>
+       </div>
  </center>
 
  ## 个人信息 
