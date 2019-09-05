@@ -4,6 +4,14 @@
              <img src = "assets/11cc.jpg", width = "100px">
          </span>
          </div>   
+         <div style="float: left;">
+             <h1>李晨晓</h1>
+             <div>
+                <span>
+                    求职意向：Java开发工程师
+                </span>
+             </div>
+         </div>
  </center>
 
  ## 个人信息 
