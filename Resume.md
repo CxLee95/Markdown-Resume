@@ -1,8 +1,11 @@
  <center>
      <div>
+         <div>
          <span>
              <img src = "assets/11cc.jpg", width = "100px">
          </span>
+         </div>
+         <div>
          <span>
              <h1>李晨晓</h1>
              <div>
@@ -11,6 +14,7 @@
                 </span>
              </div>
          </span>
+         </div>
      </div>
      
  </center>
