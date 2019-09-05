@@ -1,5 +1,4 @@
  <center>
-     <div>
          <div>
          <span>
              <img src = "assets/11cc.jpg", width = "100px">
@@ -15,8 +14,6 @@
              </div>
          </span>
          </div>
-     </div>
-     
  </center>
 
  ## 个人信息 
