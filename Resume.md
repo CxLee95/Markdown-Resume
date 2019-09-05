@@ -4,7 +4,7 @@
              <img src = "assets/11cc.jpg", width = "100px">
          </span>
          </div>
-         <div style="float: right;">
+         <div style="float: left;">
          <span>
              <h1>李晨晓</h1>
              <div>
