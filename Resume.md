@@ -1,8 +1,5 @@
  <center>
-         <div>
-             <div style = "float: left;">
-             <img src = "assets/11cc.jpg", width = "100px">
-             </div>
+         <div>          
              <h1>李晨晓</h1>
              <div>
                 <span>
