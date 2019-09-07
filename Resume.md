@@ -26,7 +26,7 @@
 
 ## 项目经历
 
-- **支持多用户的2D虚拟世界RPG游戏**       *&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*           **2019.6.1-2019.8.16**
+- **支持多用户的2D虚拟世界RPG游戏**       *&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;*           **2019.6.1～2019.8.16**
 
   【功&emsp;&emsp;能】*用户的注册与登陆；加载新游戏；继续游戏；保存游戏数据；用户在虚拟世界的移* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *动；捡起或放下小物品；吃食物；物品交易；公屏聊天；@功能*
   
@@ -36,7 +36,7 @@
          
   【单元测试】*JUnit + TestFx*
   
-  【负&emsp;&emsp;责】*参与了类的设计，主要工作在Client模块和Common模块，实现了“放下小物* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *品”功能、“吃食物”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *件。完成了相应代码的单元测试。*
+  【负&emsp;&emsp;责】*参与了类的设计，主要工作在Client模块和Common模块，实现了“放下小物* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *品”功能、“吃水果”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *件。完成了相应代码的单元测试。*
 
 ## 技能
 
@@ -49,6 +49,6 @@
 - 【其&emsp;&emsp;他】熟悉计算机网络基础理论，了解Maven项目管理工具
 
 ## 荣誉与证书
-- 荣誉：暨南大学2013-2014学年优秀学生三等奖学金
+- 荣誉：暨南大学2013～2014学年优秀学生三等奖学金
 - 证书：CET-4，CET-6，IELTS 6.5
 
