@@ -29,7 +29,7 @@
 
 ## 项目经历
 
-- **支持多用户的2D虚拟世界RPG游戏**       *&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*           **2019.7.1-2019.7.31**
+- **支持多用户的2D虚拟世界RPG游戏**       *&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*           **2019.7.1-2019.7.31**
 
   【功能】*用户的注册与登陆；加载新游戏；继续游戏；保存游戏数据；用户在虚拟世界的移动；捡* *&emsp;&emsp;&emsp;&emsp;起或放下小物品；吃食物；物品交易；公屏聊天；@功能*
   
