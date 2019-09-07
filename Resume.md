@@ -44,7 +44,7 @@
 ## 技能
 
 - 【测试技术】熟悉软件测试基础理论包括测试流程、测试方法等，能够进行测试需求分析和编写测 *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;* 试用例，了解JUnit测试框架
-- 【数&nbsp;据&nbsp;库】熟悉SQL语句，熟悉MySQL
+- 【数&nbsp;&nbsp;据&nbsp;&nbsp;库】熟悉SQL语句，熟悉MySQL
 - 【操作系统】熟悉操作系统基础理论，熟悉Linux基本操作命令
 - 【开发语言】熟悉Java基础知识，具备一定的编码能力
 - 【面向对象】熟悉MVC模式、观察者模式和命令模式，了解单例模式
