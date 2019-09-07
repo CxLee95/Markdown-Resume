@@ -31,11 +31,11 @@
 
 - **支持多用户的2D虚拟世界RPG游戏**       *&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;*           **2019.7.1-2019.7.31**
 
-  【功&emsp;&emsp;能】*用户的注册与登陆；加载新游戏；继续游戏；保存游戏数据；用户在虚拟世界的移* &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; *动；捡起或放下小物品；吃食物；物品交易；公屏聊天；@功能*
+  【功&emsp;&emsp;能】*用户的注册与登陆；加载新游戏；继续游戏；保存游戏数据；用户在虚拟世界的移* &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; *动；捡起或放下小物品；吃食物；物品交易；公屏聊天；@功能*
   
   【结&emsp;&emsp;构】*多模块项目，Server模块 + Common模块 + Client模块*
   
-  【技&emsp;&emsp;术】**开发语言:** *Java* &ensp; **设计模式:** *MVC模式 + 观察者模式 + 命令模式* &ensp; **数据存储:** *JSON* &emsp;&emsp;&emsp;&emsp; **GUI:** *JavaFx* &ensp; **网络编程:** *Socket编程*
+  【技&emsp;&emsp;术】**开发语言:** *Java* &ensp; **设计模式:** *MVC模式 + 观察者模式 + 命令模式* &ensp; **数据存储:** *JSON* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; **GUI:** *JavaFx* &ensp; **网络编程:** *Socket编程*
          
   【单元测试】*JUnit + TestFx*
   
