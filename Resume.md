@@ -1,10 +1,7 @@
  <center>
          <div>          
              <h1>李晨晓</h1>
-             <div>
-                <span>
-                    求职意向：软件测试工程师
-                </span>
+             <div>              
              </div>
          </div>
  </center>
