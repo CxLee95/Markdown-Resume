@@ -35,11 +35,11 @@
   
   【结&emsp;&emsp;构】*多模块项目，Server模块 + Common模块 + Client模块*
   
-  【技&emsp;&emsp;术】**开发语言**：*Java；* **设计模式**：*MVC模式 + 观察者模式 + 命令模式；* **数据存储**：*JSON；* **GUI**：*JavaFx* **网络编程**：*Socket编程*
+  【技&emsp;&emsp;术】**开发语言**：*Java；* **设计模式**：*MVC模式 + 观察者模式 + 命令模式；* **数据存储**：&emsp;&emsp;&emsp;&emsp;*JSON；* **GUI**：*JavaFx* **网络编程**：*Socket编程*
          
   【单元测试】*JUnit + TestFx*
   
-  【负&emsp;&emsp;责】*参与了早期类的设计，主要工作在Client模块和Common模块，实现了“放下小物品”功能、“吃食物”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文件。*
+  【负&emsp;&emsp;责】*参与了早期类的设计，主要工作在Client模块和Common模块，实现了“放下小物&emsp;&emsp;&emsp;&emsp;品”功能、“吃食物”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文件。*
 
 ## 技能
 
