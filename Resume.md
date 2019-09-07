@@ -35,7 +35,7 @@
   
   【结构】*多模块项目，Server模块 + Common模块 + Client模块*
   
-  【技术】**开发语言**：*Java；* **设计模式**：*MVC模式 + 观察者模式 + 命令模式；* **数据存储**：*JSON；* **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;GUI**：*JavaFx* **网络编程**：*Socket编程*
+  【技术】**开发语言**：*Java；* **设计模式**：*MVC模式 + 观察者模式 + 命令模式；* **数据存储**：*JSON；* **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;GUI**：*JavaFx* **网络编程**：*Socket编程*
          
   【单元测试】*JUnit + TestFx*
   
@@ -43,7 +43,7 @@
 
 ## 技能
 
-- 【测试技术】熟悉软件测试基础理论包括测试流程、测试方法等，能够进行测试需求分析和编写测 *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;* 试用例，了解JUnit测试框架
+- 【测试技术】熟悉软件测试基础理论包括测试流程、测试方法等，能够进行测试需求分析和编写测 *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&emsp;* 试用例，了解JUnit测试框架
 - 【数据库】熟悉SQL语句，熟悉MySQL
 - 【操作系统】熟悉操作系统基础理论，熟悉Linux基本操作命令
 - 【开发语言】熟悉Java基础知识，具备一定的编码能力
