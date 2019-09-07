@@ -39,7 +39,7 @@
          
   【单元测试】*JUnit + TestFx*
   
-  【负&emsp;&emsp;责】*参与了早期类的设计，主要工作在Client模块和Common模块，实现了“放下小物* &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; *品”功能、“吃食物”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文件。*
+  【负&emsp;&emsp;责】*参与了早期类的设计，主要工作在Client模块和Common模块，实现了“放下小物* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; *品”功能、“吃食物”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文件。*
 
 ## 技能
 
