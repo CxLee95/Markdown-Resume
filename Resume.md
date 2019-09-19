@@ -38,7 +38,7 @@
          
   【单元测试】*JUnit + TestFx*
   
-  【负&emsp;&emsp;责】*参与了类的设计，主要工作在Client模块和Common模块，实现了“放下小物品”功* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *能、“吃水果”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文件。完成了相应代码的单元测试。*
+  【负&emsp;&emsp;责】*参与了类的设计，主要工作在Client模块和Common模块，实现了“放下小物品”功* &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *能、“吃水果”功能、“物品交易”功能、“公屏聊天”功能和“@”功能及相应的布局文件。*  &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *完成了相应代码的单元测试。*
 
 ## 技能
 
